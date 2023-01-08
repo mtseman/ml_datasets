@@ -1,0 +1,5 @@
+following this you tube from Samson
+https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1s
+
+the data was here
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download
